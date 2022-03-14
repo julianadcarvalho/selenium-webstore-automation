@@ -6,7 +6,7 @@ Automação dos testes em um loja virtual utilizando Selenium.
 
 ## Rodando os testes
 
-Para rodar os testes, rode o seguinte comando
+Para rodar os testes:
 
 ```bash
   Rodar o método main na classe RunnerTest. 
@@ -21,5 +21,4 @@ Para rodar os testes, rode o seguinte comando
 ## Licença
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
 
